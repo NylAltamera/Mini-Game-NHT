@@ -8,7 +8,7 @@ Nini’s Harvest Time is a small-scale project created to explore Godot’s 2D g
 - Face mysterious creatures rising from the ground
 - Simple and beginner-friendly controls
 
-## Tech Stach
+## Tech Stack
 - Game Engine: Godot (version 4)
 - Language: GDScript
 - Platform: PC (other platforms possible)
