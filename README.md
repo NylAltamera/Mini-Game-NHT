@@ -19,7 +19,7 @@ In a quiet corner of the enchanted forest, a gentle cat named Nini tends to her 
 
 ![image-alt](https://github.com/NylAltamera/Mini-Game-Nini-s-Harvest-Time/blob/3a2eb32c76e1f2954cc11f2676c1ebe12d3f5e6c/ui/levelone_ui.png) ![image-alt](https://github.com/NylAltamera/Mini-Game-Nini-s-Harvest-Time/blob/3a2eb32c76e1f2954cc11f2676c1ebe12d3f5e6c/ui/leveltwo_ui.png)
 
-**Player Character**
+### Player Character
 Main Character: Nini, a shoft-furred forest cat who loves peace and nature.
 
 Abilities:
